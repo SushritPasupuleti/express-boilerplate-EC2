@@ -1,0 +1,12 @@
+{
+  "name": "express-boilerplate-EC2",
+  "version": "1.0.0",
+  "description": "Some sample code to test if AWS EC2 instance is properly configured",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
